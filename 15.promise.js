@@ -215,7 +215,6 @@ const fetchUser = async () => {
 };
 fetchUser();
 
-
 //* ES => Ecma Script
 // let const
 // template literal
@@ -228,3 +227,4 @@ fetchUser();
 // class
 // promise/async await
 // enhanced boject literal
+// hello ashok
