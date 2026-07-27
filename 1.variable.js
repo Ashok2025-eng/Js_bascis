@@ -34,3 +34,4 @@ console.log(c); //prints 23
 // in dynamic method we can change the data type of variable at runtime anytime furthers
 
 // there is two things data declaration and initlization, declaration is when we declare a variable and initialization is when we assign a value to that variable
+// variables;
