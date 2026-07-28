@@ -56,18 +56,13 @@
 
 //* Reset and revert
 //git reset <commit_id>
-// git reset --soft HEAD~1 => bring back to staged 
+// git reset --soft HEAD~1 => bring back to staged
 // git reset --mixed HEAD~1 =>bring back to working directry
 
 // git reset --hard HEAD~1 =>destroys or delete both content and commit
 //git revert <commit messgaes index>
 //git revert --HEAD~N =1,2,3,4
 
-
 //* rebase
 // git rebase main
 
-
-
-
-Mistakeaddfg
