@@ -43,3 +43,7 @@
 //* diff
 //* git diff array..main
 // git diff --name-only Array.apply.main
+
+//*Git Stash
+// git stash -u
+// git stash pop
