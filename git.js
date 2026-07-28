@@ -61,8 +61,13 @@
 
 // git reset --hard HEAD~1 =>destroys or delete both content and commit
 //git revert <commit messgaes index>
+//git revert --HEAD~N =1,2,3,4
+
 
 //* rebase
 // git rebase main
 
 
+
+
+Mistakeaddf
