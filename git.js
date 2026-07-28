@@ -66,3 +66,5 @@
 //* rebase
 // git rebase main
 
+//* Cherry pick
+//git cherry-pick g <comit-id> a ->b ->c ->d
