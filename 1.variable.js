@@ -35,3 +35,5 @@ console.log(c); //prints 23
 
 // there is two things data declaration and initlization, declaration is when we declare a variable and initialization is when we assign a value to that variable
 // variables;
+
+// hello this is example of git stash oeoeoe
