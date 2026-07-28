@@ -42,5 +42,18 @@
 //* git diff array..main
 // git diff --name-only Array.apply.main
 
+
+
 //todo: stash,revert,reset
 //todo:rebase,cherry-pick
+
+//*Git Stash
+// git stash -u
+// git stash pop
+
+//* Reset and revert
+// git reset --hard HEAD~1
+//git revert <commit messgaes index>
+
+//* rebase
+// git rebase main
