@@ -42,18 +42,27 @@
 //* git diff array..main
 // git diff --name-only Array.apply.main
 
-
-
 //todo: stash,revert,reset
 //todo:rebase,cherry-pick
 
 //*Git Stash
 // git stash -u
 // git stash pop
+//git stash <stash message>
+//git stash apply
+//git stash apply stash @{n}
+//git stash drop stash @{n}
+// git stash clear
 
 //* Reset and revert
-// git reset --hard HEAD~1
+//git reset <commit_id>
+// git reset --soft HEAD~1 => bring back to staged 
+// git reset --mixed HEAD~1 =>bring back to working directry
+
+// git reset --hard HEAD~1 =>destroys or delete both content and commit
 //git revert <commit messgaes index>
 
 //* rebase
 // git rebase main
+
+
